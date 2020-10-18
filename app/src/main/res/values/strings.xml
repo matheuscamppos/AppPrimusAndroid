@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Primus</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="shopping_cart">Carrinho</string>
+    <string name="products">Produtos</string>
+    <string name="dont_have_account">Nao tem conta?</string>
+    <string name="click_me">Clique aqui</string>
+    <string name="entrar_string">Entrar</string>
+    <string name="email__string">Email</string>
+    <string name="entrar_facebook">Entrar com Facebook</string>
+    <string name="cancel">Cancelar</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="register">Cadastrar</string>
+    <string name="repeat_pwd">Repita sua senha</string>
+    <string name="exemple_phone">(99) 9 9999-999 </string>
+    <string name="register_nav">Cadastrar</string>
+    <string name="Register">Cadastro</string>
+    <string name="message">Mensagems</string>
+    <string name="acai">Acai</string>
+    <string name="molhos">Molhos</string>
+    <string name="pizzas">Pizzas</string>
+    <string name="direto_ao_forno">Direto ao Forno</string>
+
+
+    <string name="menu_home"></string>
+    <string name="menu_gallery"></string>
+    <string name="menu_slideshow"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
